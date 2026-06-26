@@ -1,0 +1,2 @@
+# 640218e0ff08c5c3-aerial-tech-email-marketing-au
+aerial tech professionals waste hours on building the same data integration from scratch for every project. This fixes that.  SDKs and quickstart guides for Python, JavaScript, PHP, and cURL. RESTful JSON API with comprehensive documentation and code examples.  ## What's Included  - Aerial Tech Email Marketing Automation — fully configured and read
